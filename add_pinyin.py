@@ -4,6 +4,7 @@ from docx.oxml.ns import qn
 from docx.shared import Pt
 from pypinyin import pinyin, Style
 
+
 def add_pinyin_to_doc(input_path, output_path):
     doc = Document(input_path)
 
