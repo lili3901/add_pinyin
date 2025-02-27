@@ -5,6 +5,7 @@ from docx.enum.text import WD_ALIGN_PARAGRAPH
 from docx.enum.table import WD_ALIGN_VERTICAL
 from docx.oxml.ns import qn
 
+
 # 指定要处理的Word文档路径
 doc_path = 'C:/Users/lilil/Desktop/G2P2.docx'
 output_path = 'C:/Users/lilil/Desktop/annotated_G2P2.docx'
